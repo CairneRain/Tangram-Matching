@@ -8,31 +8,31 @@
 
 ### **Environment:**
 
-​    python 3.7
+- python 3.7
 
- 
+
 
 ### **Dependencies:** 
 
-​    PyQt5, PyQt5-tools, Numpy.
+- PyQt5, PyQt5-tools, Numpy.
 
- 
+
 
 ### **Install package:**
 
-​    pip install PyQt5
+- pip install PyQt5
 
-​    pip install PyQt5-tools
+- pip install PyQt5-tools
 
-​    pip install numpy
+- pip install numpy
 
- 
+
 
 ### **Run program:**
 
-​    python main.py
+- python main.py
 
- 
+
 
 ### **UI Explaination:**
 
